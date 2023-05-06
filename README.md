@@ -37,7 +37,7 @@ My name is Rushi Chavan and I am a web developer with experience in HTML, CSS, J
 
 ## Contact
 
-If you'd like to get in touch with me, you can reach me at rushi.chavan@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rushi-chavan/).
+If you'd like to get in touch with me, you can reach me at rushi.chavan33@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rushi-chavan/).
 
 ---
 # https://kittorushi.github.io/RushiChavan/
