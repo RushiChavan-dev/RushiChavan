@@ -9,7 +9,7 @@ const exp = [
     title: "Full Stack Developer",
     cardImage: "assets/images/experience-page/codereadylogo.png",
     place: "Code Ready, Inc",
-    time: "(Sept 2022 - Present)",
+    time: "(Augest 2022 - Present)",
     desp: "<li>Develop CRM web application and integrate dashboard in existing web apps</li><li>Troubleshoot and resolve issues, provided technical support and maintain the previous code base</li><li>Ensure functionality, usability, security, scalability, and performance of web application.</li>",
   },
 
@@ -17,14 +17,14 @@ const exp = [
     title: "Senior Software Engineer",
     cardImage: "assets/images/experience-page/it_gurus.svg",
     place: "IT Gurus SOftware",
-    time: "(Nov, 2021 - Jan 2023)",
+    time: "(Oct, 2021 - April 2023)",
     desp: "<li>Worked on the project People's HR of UK</li><li>Designed a web application that would help businesses to track record of the employee.</li><li>Created communication application for businesses</li>",
   },
   {
-    title: "Cheif Technology Officer",
+    title: "Co-Founder",
     cardImage: "assets/images/experience-page/octverselight.png",
     place: "Octverse Technolgies",
-    time: "(Nov, 2020 - Present)",
+    time: "(Jan, 2019 - Present)",
     desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
   },
 
@@ -34,7 +34,7 @@ const exp = [
     title: "Blockchain Development Intern",
     cardImage: "assets/images/experience-page/cavyiot.png",
     place: "Cavy IOT",
-    time: "(May, 2022 - July, 2021)",
+    time: "(April, 2022 - July, 2021)",
     desp: "<li>Worked with a team of developers to design and implement blockchain-based solutions for clients in the finance and healthcare industries.</li><li>Conducted research on emerging technologies and their potential applications in various industries </li><li>Collaborated with clients and internal stakeholders to identify business needs and requirements.</li><li>Presented findings and recommendations to senior management</li>",
   },
 
@@ -48,17 +48,17 @@ const exp = [
 
 
   {
-    title: "Engineering Team Lead ",
+    title: "Team Lead ",
     cardImage: "assets/images/experience-page/ivs.png",
     place: "IVS Software Solutions",
-    time: "(Dec, 2019 - Jan, 2022)",
+    time: "(Nov, 2020 - Oct, 2021)",
     desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
   },
   {
     title: "Application Developer",
     cardImage: "assets/images/experience-page/visaecom.jpg",
     place: "Visa Ecom Multiservices Ltd",
-    time: "(Aug, 2020 - Oct, 2020)",
+    time: "(jan, 2020 - Oct, 2020)",
     desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
   },
 
