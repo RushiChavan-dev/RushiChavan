@@ -40,4 +40,4 @@ My name is Rushi Chavan and I am a web developer with experience in HTML, CSS, J
 If you'd like to get in touch with me, you can reach me at rushi.chavan33@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rushi-chavan/).
 
 ---
-# https://kittorushi.github.io/RushiChavan/
+# [https://kittorushi.github.io/RushiChavan/](https://rushichavan-dev.github.io/RushiChavan/)
